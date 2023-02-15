@@ -1,0 +1,8 @@
+instructors = list()
+instructors.append("Colt")
+instructors.append("Blue")
+instructors.append("Lisa")
+instructors.pop(2)
+instructors.pop(0)
+instructors.insert(0, 'Done')
+print(instructors)
